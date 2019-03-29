@@ -2626,7 +2626,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2-960x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-1280x960.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2678,7 +2678,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2-960x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-1280x960.jpg",
               "link": "",
               "alt": "",
               "title": ""
