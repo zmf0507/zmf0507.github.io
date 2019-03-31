@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "zmf_new",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -147,10 +147,10 @@
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/zmf-1-953x729.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#41a85f",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -159,11 +159,11 @@
               "url": "https://www.youtube.com/embed/GEfuOMzRgXo?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0"
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.6"
           },
           "title": "ZAKI MUSTAFA",
-          "text": "Full stack Developer . Tech-entrepreneur. Research Enthusiast",
+          "text": "Full stack Developer . Research Enthusiast. Aspiring entrepreneur.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header2-2\" data-toolbar=\"-mbrBtnMove\">Know more about zmf</a> "
         },
         {
@@ -206,7 +206,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20180308-163226-1400x1337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/21414960-950177555120158-1725644621104672751-o-1-1365x2048.jpg",
               "link": "",
               "alt": "zaki mustafa",
               "title": "zmf"
@@ -224,7 +224,7 @@
             }
           },
           "title": "Meet ZAKI",
-          "text": "A &nbsp;computer science undergrad , currently working as a Full Stack Engineer at one of India's leading intelligent screening services company Instaveritas . Looking forward to taking on new challenges in the field of machine lerning &amp; computer vision in order to form a strong conceptual background to become a high end professional and be adaptable to everchanging professional and technical dynamics.&nbsp;<br><br>Meet ZAKI - Product developer , full stack developer and Research Enthusiast&nbsp;<br>Love to innovate . Play with engines and APIs. Develop life utility web apps.&nbsp;Design user engaging layouts. Optimise websites and webapps. Create strong backend. <br>find Research problems. Devise solutions. &nbsp;Analyse and debug code.",
+          "text": "<p>&nbsp;I am&nbsp;a computer science undergrad currently working as a Full Stack Engineer at one of India's leading intelligent screening services company InstaVeritas , Looking forward to taking on new challenges in the field of machine lerning &amp; computer vision in order to form a strong conceptual background to become a high end professional , be adaptable to everchanging professional and technical dynamics &amp; bring something new to the table.<br><br>Meet ZAKI - product developer , &nbsp;research enthusiast &amp; aspiring entreprenuer<br>Love to innovate . Play with engines and APIs. Develop life utility web apps.&nbsp;Design user engaging layouts. Optimise websites and webapps. Create strong backend. <br>Solve problems. Devise solutions. &nbsp;Analyse and debug code.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
