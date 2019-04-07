@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "zmf_new",
-    "currentPage": "blog.html",
+    "currentPage": "events.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 108,
+    "uniqCompNum": 117,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -2499,61 +2499,147 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "timeout": "2",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1500.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Activities for a change",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"events.html#msg-box3-37\" data-toolbar=\"-mbrBtnMove\">see all</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Activities for a change",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"events.html#msg-box3-37\" data-toolbar=\"-mbrBtnMove\">see all</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20180227-wa0009-2000x784.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Activities for a change",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"events.html#msg-box3-37\" data-toolbar=\"-mbrBtnMove\">see all</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1500.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Activities for a change",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"events.html#msg-box3-37\" data-toolbar=\"-mbrBtnMove\">see all</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1137.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Activities For a change&nbsp;",
+                "showText": true,
+                "text": ".",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"events.html#msg-box3-37\" data-toolbar=\"-mbrBtnMove\">See More</a>  "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20180327-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<p>Activities for a change<br></p>",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"events.html#msg-box3-37\" data-toolbar=\"-mbrBtnMove\">See all</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-36",
+          "articleLayout": false,
           "_styles": {
-            "H3": {
-              "color": "#2969b0",
-              "font-size": "36px"
+            "P": {
+              "text-align": "center"
+            },
+            "H2": {
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
             }
           },
-          "_anchor": "header2-22",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-37",
           "_params": {
-            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#f7da64",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "showArrow": false
+            "showText": true,
+            "showButton": true
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1-1280x960.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "linkInNewWindow": false,
-              "name": "arrow-prev",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "EVENTS &amp; ACTIVITIES&nbsp;<br>FOR A CHANGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page6.html#msg-box5-28\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>"
+          "title": "Yes! Its me",
+          "text": "<p>Having  participated , organized and volunteered in more  than 40+ events, here are the glimpses of some of the major events</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"events.html#msg-box5-28\" data-toolbar=\"-mbrBtnMove\">Lets check it out</a>"
         },
         {
           "_tags": [
@@ -2707,6 +2793,59 @@
           "title": "Hashes Full Stack workshop",
           "text": "Spoken at Jamia Millia Islamia's official programming Club 'Hashes' workshop for Full Stack development in Feb, 2018",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-35",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20180227-wa0007-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Entrepreneurs meet",
+          "text": "Core Volunteer of one of the biggest entrepreneurs meetup where CEOs, COOs, presidents of various organizations presented their valuable inputs , held at Jamia Millia Islamia, Delhi.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -3175,7 +3314,7 @@
           },
           "title": "Blog",
           "text": "See what Zaki writes and shares with the world",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"blog.html#msg-box2-2o\" data-toolbar=\"-mbrBtnMove\">Lets go!</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"blog.html#msg-box2-2m\" data-toolbar=\"-mbrBtnMove\">Lets go!</a>"
         },
         {
           "_styles": {
@@ -3211,9 +3350,9 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blog-computers-can-think.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>8 minutes read</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blog-computers-can-think.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>6 minutes read</a>",
           "title": "Can Computers think?",
-          "text": "Lets see whether computers can think like humans!"
+          "text": "Lets see whether computers can think like humans or not!"
         },
         {
           "_styles": {
@@ -3293,172 +3432,6 @@
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
           "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
           "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
-        }
-      ]
-    },
-    "page8.html": {
-      "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-2s",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2019 Zaki Mustafa. Farooqi"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-2t",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-358-128x118.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "drag-n-drop",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "23px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1f5087"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2662a4!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2969b0"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#eb6b56!important"
-            },
-            ".btn": {
-              "font-size": "14px"
-            },
-            ".btn SPAN": {
-              "font-size": "18px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-2u",
-          "_params": {
-            "bgColor": "#2969b0",
-            "fontSize": "1",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logomakr-9qphob-283x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "drag-n-drop",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": "50",
-              "active": true,
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px;\"></span>Join me</a></li>"
         }
       ]
     },
@@ -3566,7 +3539,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span>Go Back</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span>Read the next</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blog.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span>Go Back</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"blog-fighting-misinformation-with-machine-learning.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span>Read the next</a>"
         },
         {
           "_tags": [
@@ -3670,6 +3643,252 @@
           ],
           "_name": "menu",
           "_anchor": "menu-2r",
+          "_params": {
+            "bgColor": "#2969b0",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logomakr-9qphob-283x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "50",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px;\"></span>Join me</a></li>"
+        }
+      ]
+    },
+    "blog-fighting-misinformation-with-machine-learning.html": {
+      "settings": {
+        "title": "Fighting misinformation with machine learning",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2s",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2019 Zaki Mustafa. Farooqi"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-30",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Fighting misinformation with machine learning",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-31",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "By Zaki Mustafa Feb 20, 2018"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-32",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Fighting misinformation today is a tedious task of the broader difficulty of abuse of social media platforms. Though not foolproof, the most common method to cope with misinformation is to fact-check claims. The empirical facts show that tremendous facts do not have a massive advantage over low-quality records in on-line social networks [1]. A number of systems, tools, and datasets have been proposed to help research efforts about misinformation. Mitra and Gilbert, for example, proposed CREDBANK, a dataset of tweets with related credibility annotations [2]. Some structures let users visualize the unfold of rumors online. The most notable are TwitterTrails and RumorLens [3,4]. These systems, however, lack monitoring capabilities. The Emergent web site detected unverified claims on the Web, tracking whether or not they were due to this fact verified, and how plenty they have been shared. The approach was based totally on guide curation, and thus did not scale up much.&nbsp;</blockquote><blockquote>Undoubtedly, the improvement towards high quality countermeasures requires a correct perception of the problem, as well as an evaluation of its ever-increasing magnitude. To date, the debate on these issues has been informed through restricted evidence. Studies of news consumption on Facebook disclose that users have a natural tendency to confine their attention on a restricted set of pages by choice or by design [5]. In comparison, the interior investigations performed by the systems themselves appear to be primarily based on comprehensive disaggregated datasets, but lack transparency, owing to the two-fold hazard of jeopardizing the privacy of users and of disclosing inner records that ought to be probably exploited for malicious functions.</blockquote><blockquote>Motivated by using these limitations in previous work, it appears pertinent to the truthfulness of a claim. This provides numerous difficulties,  essentially scalability! This lets us know, for any given misinform- ation in our corpus, the full picture of how it spreads and competes with subsequent fact-checking, if any. Shao et al.[6] in their study concluded that ‘upward jostle of digital misinformation is calling into question the integrity of our facts ecosystem’. The precedence of disconnected customers is determined by means of rating on the groundwork of different centrality metrics. Moreover, they discussed in detail the context and concluded mainly as follows:</blockquote><blockquote>•\tMost of the claims in the mainstream media are sooner or later verified, many continue to be unverified, and some even flip out to be false.&nbsp;</blockquote><blockquote>•\tSome instances of misinformation might also see their unfold boosted as a end result of additional exposure on mainstream news outlets.&nbsp;</blockquote><blockquote>•\tThe dynamics of the broader media and information ecosystem is consequently wanted to completely recognize the phenomenon of digital misinformation.</blockquote><blockquote>The challenges associated with fighting misinformation are quite evident and concluded above but the next question to be answered is whether machine learning can help us deal with the enormous and humongous amount of fake information bearing different patterns, types, origins, structure and characteristics. No doubt,  machine learning is the closest way to have artificially intelligent tools to cope up with this problem.</blockquote><blockquote>There can be mainly three types of machine learning based solutions to this problem and we have tried to discuss some of them below</blockquote><blockquote>1. Neural Network Model</blockquote><blockquote>There can be different ways to train neural networks or machine learning models on available dataset of real and fake information. Recurrent Neural Network is popular in Natural Language Processing. Convolutional neural networks (CNN) are used for text classification tasks[10] . One of the ways is to use generative adversarial neural network for feature based detection and deconvolutional neural networks for pattern based detection where every part of the information is assigned a rating or a probability and then feature extraction is done to evaluate results[7]. Another such example is to use deep recurrent neural network model to perform feature extraction and Deep Diffusive Network Model to detect fake information[8].&nbsp;</blockquote><blockquote>2. Supervised machine learning models</blockquote><blockquote>Supervised machine learning algorithms such as Support Vector machine, K-nearest neighbour, decision tree and Naive Bayes are used to detect and deal with fake information. This needs a dataset to train the model. The basic steps involved are data preprocessing, word-to-vector conversion, attribute selection, feature selection, using supervised machine learning algorithms to train the model and finally testing the model on input and real data[9].  Natural Language Processing (NLP) and semantic analysis use these algorithms to detect fake information as well.</blockquote><blockquote>We can see  there are several effective ways to fight ,detect, and reduce misinformation and fake news with the use of  machine learning tools and algorithms but the question arises over accuracy and efficiency. With the generation of innumerable bytes of data everyday, it’s no less than a grand challenge to have very efficient machine learning tool to combat misinformation.&nbsp;</blockquote><blockquote>One such claim has been done by the team of University of Michigan regarding the development of a tool outperforming humans to detect misinformation [11].The team fed fake as well as real news to the algorithm and it taught itself how to differentiate between the two. After training , the machine/tool was fed with the news from a dataset containing both real and fake news directly from the web and it did gave wrong results for 24% of the cases as compared to humans who couldn’t identify the fake news 30% of the time.</blockquote><blockquote>Another popular misinformation detection tool is deepnews.ai which actually focuses on the fake news and journalism. It uses two machine learning models to collect quantifiable signals from html pages of fake news and use text embedding to score the text and generate result respectively[12]</blockquote><blockquote>Apart from these, there are other fake information detection tools which leverage the abilities of machine learning and artificial intelligence to generate better results , like FakerFact which is  trained on millions of articles, journals, news etc and evaluate the truthfulness of the information on a numerical scale.[12]&nbsp;</blockquote><blockquote>Researches are being carried to develop a better algorithm and solution but we can definitely conclude that machine learning has to deal with a lot of challenges due to the ever-changing structure of misinformation.</blockquote><blockquote><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><b>REFERENCES</b></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">1.\tRatkiewicz J, Conover M, Meiss M, GoncËalves B, Patil S, Flammini A, et al. Truthy: Mapping the Spreadof Astroturf in Microblog Streams. In: Proceedings of the 20th International Conference Companion onWorld Wide Web. WWW'11. New York, NY, USA: ACM; 2011. p. 249±252. Available from: http://doi.acm.org/10.1145/1963192.1963301.&nbsp;</span></p></blockquote><blockquote><br></blockquote><blockquote>2.\tMitra T, Gilbert E. CREDBANK: A Large-Scale Social Media Corpus With Associated Credibility Annotations. In: Proc. International AAAI Conference on Web and Social Media. Palo Alto, CA: AAAI; 2015. p. 258±267. Available from: https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10582.&nbsp;</blockquote><blockquote><br></blockquote><blockquote>3.\tMetaxas PT, Finn S, Mustafaraj E. Using TwitterTrails.com to Investigate Rumor Propagation. In: Proceedings of the 18th ACM Conference Companion on Computer Supported Cooperative Work &amp; Social Computing. CSCW'15 Companion. New York, NY, USA: ACM; 2015. p. 69±72. Available from: http://doi.acm.org/10.1145/2685553.2702691.</blockquote><blockquote><br></blockquote><blockquote>4.\tCarton S, Park S, Zeffer N, Adar E, Mei Q, Resnick P. Audience Analysis for Competing Memes in Social Media. In: Proc. International AAAI Conference on Web and Social Media. Palo Alto, CA: AAAI; 2015. p. 41±50. Available from: https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/ 10592.</blockquote><blockquote><br></blockquote><blockquote>5.\tDel Vicario M, Bessi A, Zollo F, Petroni F, Scala A, Caldarelli G, et al. The spreading of misinformation online. Proc National Academy of Sciences. 2016; 113(3):554±559. https://doi.org/10.1073/pnas.1517441113</blockquote><blockquote><br></blockquote><blockquote>6.\tShao C, Hui P-M, Wang L, Jiang X, Flammini A, Menczer F, et al. (2018) Anatomy of an online misinformation network. PLoS ONE 13(4): e0196087. https://doi.org/10.1371/journal.pone.0196087</blockquote><blockquote>7.\t Parsa Yousefi Fake News and the Detection Methods from Psychology to Machine Learning https://hackernoon.com/fake-news-and-the-detection-methods-from-psychology-to-machine-learning-part-1-facbadac3e85</blockquote><blockquote>8.\tZhang J, LimengCui, YanjieFu, Gouza F. Fake News Detection with Deep Diffusive Network Model. Available from : https://arxiv.org/pdf/1805.08751.pdf</blockquote><blockquote>9.\tElmurngi E,  Gherbi A.  An empirical study on detecting fake reviews using machine learning techniques. Available from :https ://www. Researchgate .net/publication /320971538_ An_ empirical_ study_ on_ detecting  fake_reviews_using_machine_learning_techniques &nbsp;</blockquote><blockquote>10.\tOshikawa R, Qian J, Wang W Y. A Survey on Natural Language Processing for Fake News Detection . Available from :https://arxiv.org/pdf/1811.00770.pdf</blockquote><blockquote>11.\tFake news detector algorithm works better than a human . Available from : https://news.umich.edu/fake-news-detector-algorithm-works-better-than-a-human/</blockquote><blockquote>12.\t Greenup S. Catalogue of all projects working to solve Misinformation and Disinformation. Available from:https://misinfocon.com/catalogue-of-all-projects-working-to-solve-misinformation-and-disinformation-f85324c6076c</blockquote><blockquote><br></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-33",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blog-computers-can-think.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span>See the previous article</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-358-128x118.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
+          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
+          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "23px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#eb6b56!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            },
+            ".btn SPAN": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2u",
           "_params": {
             "bgColor": "#2969b0",
             "fontSize": "1",
