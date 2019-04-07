@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "zmf_new",
-    "currentPage": "events.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 90,
+    "uniqCompNum": 108,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -323,7 +323,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi"
+          "text": "Copyright (c) 2019 Zaki Mustafa. Farooqi"
         },
         {
           "_inherit": "social-buttons2",
@@ -444,6 +444,9 @@
             },
             ".btn": {
               "font-size": "14px"
+            },
+            ".btn SPAN": {
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -485,7 +488,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px;\"></span>Join me</a></li>"
         }
       ]
     },
@@ -2426,6 +2429,9 @@
             },
             ".btn": {
               "font-size": "14px"
+            },
+            ".btn SPAN": {
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -2467,7 +2473,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px;\"></span>Join me</a></li>"
         },
         {
           "_tags": [
@@ -2487,7 +2493,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi"
+          "text": "Copyright (c) 2019 Zaki Mustafa. Farooqi"
         },
         {
           "_tags": [
@@ -3006,6 +3012,699 @@
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
           "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
           "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+        }
+      ]
+    },
+    "blog.html": {
+      "settings": {
+        "title": "BLOG | ZMF",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2i",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2019 Zaki Mustafa. Farooqi"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "23px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#eb6b56!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            },
+            ".btn SPAN": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1y",
+          "_params": {
+            "bgColor": "#2969b0",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logomakr-9qphob-283x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "50",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px;\"></span>Join me</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#cccccc",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-2n",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#f7da64",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Blog",
+          "text": "See what Zaki writes and shares with the world",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"blog.html#msg-box2-2o\" data-toolbar=\"-mbrBtnMove\">Lets go!</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blog-computers-can-think.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>8 minutes read</a>",
+          "title": "Can Computers think?",
+          "text": "Lets see whether computers can think like humans!"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blog-computers-can-think.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>10 minutes read</a> ",
+          "title": "Fighting misinformation with machine learning",
+          "text": "Learn how machine learning can deal with such an enormous amount of fake data and information"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-358-128x118.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
+          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
+          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "Website Creator Title",
+        "meta_descr": "Website Creator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2s",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2019 Zaki Mustafa. Farooqi"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-358-128x118.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
+          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
+          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "23px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#eb6b56!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            },
+            ".btn SPAN": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2u",
+          "_params": {
+            "bgColor": "#2969b0",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logomakr-9qphob-283x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "50",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px;\"></span>Join me</a></li>"
+        }
+      ]
+    },
+    "blog-computers-can-think.html": {
+      "settings": {
+        "title": "Can Computers think?",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2p",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2019 Zaki Mustafa. Farooqi"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2y",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Can Computers think?",
+          "text": "<p>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "Zaki Mustafa ,Mar 2018"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>When we hear this question, the very first thought that strikes our minds is whether to answer YES or NO. But the question demands something more. What do we clearly imply by the word think? Let's try to understand the word think and reach a conclusion to answer the question ‘can computers think? When we say think, we often mean to say being decisive in nature. One who is able to think essentially takes a decision primarily based on the present circumstances and conditions. The surrounding directly or in a roundabout way shape our thought process and lead to reach a closing conclusion. When it comes to human beings, thinking is a natural mental process, which is being carried by human beings every time. An average human brain has heaps of ideas in a day and it truly suggests that human brain processes a lot of data, which it receives as the input from the surroundings, interactions, prevailing conditions to assume and decide or to have a final thought of something.<span style=\"font-size: 1.09rem; line-height: 1.5;\">When we talk about computers having a thinking mechanism, we have to talk about intelligence and decisions and the basis on which the decisions are taken. To answer this question, Alan Turing in 1950 suggested a test on computers. This is popularly recognized as ‘Turing test' and it involves a very fundamental analysis of the computer's capability to think and answer accordingly [1].</span></blockquote><blockquote>The Turing Test suggests that computers can think if and solely if they pass this test. A computer is kept with human beings behind a curtain and a person interacts with each of the computer and humans and evaluates their responses. In the course of 5 minutes conversation, if at least 30% interrogators are no longer capable to differentiate between people and computer or If the interrogators are not able to recognize the computer and assumes it to be a human being, then that computer/machine has passed the Turing Test and is said to have thinking ability or it can be stated that this computer can think [1].</blockquote><blockquote>Alan Turing changed the question from ‘can computers think'  to ‘can computers talk like humans' due to the fact that human interaction needs a lot of thinking, which is basically dependent on consciousness, intelligence and intuition. Well, the Turing Test is still being used to judge and test different computers and different versions of Turing test have been designed to suit modern day programs and computers. Now the question is whether there exists any machine that has passed Turing test To be precise, the question should be ‘ is there any computer that can think?'. Several people claimed their computers and programs to have passed this test and few are described here.</blockquote><blockquote>Eugene Goostman, a chatbot that resembles a thirteen years old Ukrainian boy, was declared to have passed the Turing test for the first time in the history in 2014 by managing to fool more than 30% human askers into believing it to be a human. This received a widespread criticism, however, due to the fact that the responses supplied in reality had grammatical errors which have been assumed to be due to a language barrier [2]. The next success came from a chatbot named ELIZA. This success was rescinded when it was determined that ELIZA basically misled human beings with the aid of mimicking a psychologist. Basically, ELIZA used sample matching and substitution techniques to supply an illusion of understanding however it had no internal structure and framework for answering the questions [3].</blockquote><blockquote>Later, another range of bots called Cleverbots came into existence. These Cleverbots used Artificial Intelligence to learn from preceding real conversations with humans. Cleverbots participated in a Turing Test in 2011, in a festival at IIT Guwahati where it turned out to be  59.3% human in nature compared to a rating of 63.3% human achieved by the actual human participants. Despite the success of being close to human rating, Cleverbots could not be compared to humans in terms of thinking due to the difference of 4% in the ratings which couldn't be ignored. Moreover, Cleverbots lacked one vital characteristic possessed by human beings, that is a consistent persona as it answered questions based on the past learned chats and answers of human beings.[4]</blockquote><blockquote>There have been other successes as well, such as Catherine, the 1997 winner, who managed to pass the Turing Test, but solely if the theme of dialog used to be Bill Clinton [4]. From these examples, we can see that the premise of the Turing Test is not completely mapped to consciousness and intuition, but also to different methods of cheating and making the humans believe what the computer wants them to. Moreover, if the domain of the computer is limited to certain topics, then it can perform very well due to its pre-learned knowledge; whereas humans, of course, have no such boundaries and their thinking can go up to any heights.<span style=\"font-size: 1.09rem; line-height: 1.5;\">The most necessary characteristics of the human beings are consciousness and emotionally driven thoughts. The lack of consciousness and feelings in computers don't make them stand in opposition with human beings when it comes to thinking. As of yet, machines do not have important intuition and therefore lag behind humans in this field. Moreover, In most of the cases, the decisions computers take and the brain they showcase is primarily based on the understanding and statistics they are trained on.</span></blockquote><blockquote><p>In my opinion, the Turing Test is more or less a way to demonstrate how easily a machine can cheat humans and therefore does not provide a concrete idea about computer systems having a thinking mechanism. We can even conclude that machines passing the Turing Test cannot be completely called thinking machines, as they lack the most necessary human characteristics mentioned above. As of now, computers cannot definitely think like humans, but in a limited way as trained and equipped. However, there are predictions that by 2050, there will exist artificially intelligent computers capable of thinking like human beings [5]. Till then let's wait and enjoy the debates and the Cleverbots chats! With enormous developments taking fast steps onto integration of technologies, it appears highly feasible to equip computers with knowledge and its algorithm driven inference – that exhibit thinking. Finally whatsoever the development may take place and despite many experiments on human brain simulation with computers; computers may slightly remain at loss to demonstrate wisdom – the ultimate but a non-algorithmic output.&nbsp;</p><p><br></p><p>References :</p></blockquote><blockquote>1.\tTuring, A. M. (1950).Computing Machinery and Intelligence. Mind 49: 433-460.  Accessed:21.02.2019,  https://www.csee.umbc.edu/courses/471/papers/turing.pdf</blockquote><blockquote>2.\tLopatto E. (2014).  The AI That Wasn’t: Why ‘Eugene Goostman’ Didn’t Pass the Turing Test, Accessed:21.02.2019, https://www.thedailybeast.com/the-ai-that-wasnt-why-eugene-goostman-didnt-pass-the-turing-test</blockquote><blockquote>3.\tELIZA effect, https://en.wikipedia.org/wiki/ELIZA</blockquote><blockquote>4.\tGendler A. The Turing test: Can a computer pass for a human? Accessed:21.02.2019,(https://www.youtube.com/watch?v=3wLqsRLvV-c&amp;vl=en)</blockquote><blockquote>5.\tStrickland, J. What do you think computers will be like in 2050?, Accessed:21.02.2019, https://computer.howstuffworks.com/computers-in-2050.htm</blockquote><blockquote><br></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span>Go Back</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span>Read the next</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-358-128x118.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
+          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
+          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "23px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#eb6b56!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            },
+            ".btn SPAN": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2r",
+          "_params": {
+            "bgColor": "#2969b0",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logomakr-9qphob-283x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "50",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px;\"></span>Join me</a></li>"
         }
       ]
     }
