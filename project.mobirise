@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "zmf_new",
-    "currentPage": "page6.html",
+    "currentPage": "events.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,12 +23,13 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 84,
-    "versionPublish": "4.3.2",
+    "uniqCompNum": 90,
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -42,125 +43,31 @@
       },
       "components": [
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "23px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1f5087"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2662a4!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2969b0"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#eb6b56!important"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#2969b0",
-            "fontSize": "1",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logomakr_9qphob-283x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "drag-n-drop",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": "50",
-              "active": true,
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">ZONE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">TECHNOLOGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">ACADEMICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">BUSINESS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">TUTORIALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FOOTBALL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
           "_anchor": "header1-1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/zmf-1-953x729.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/zmf-1-953x729.jpg",
             "bgColor": "#41a85f",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/GEfuOMzRgXo?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.6",
             "overlayColor": "#28324e",
-            "overlayOpacity": "0.6"
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "title": "ZAKI MUSTAFA",
           "text": "Full stack Developer . Research Enthusiast. Aspiring entrepreneur.",
@@ -183,24 +90,24 @@
           },
           "_anchor": "header2-2",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": true,
             "imageSize": "34",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#f97352",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.3,
             "overlayColor": "#000000",
-            "overlayOpacity": 0.3
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
           },
           "media": {
             "image": {
@@ -224,7 +131,7 @@
             }
           },
           "title": "Meet ZAKI",
-          "text": "<p>&nbsp;I am&nbsp;a computer science undergrad currently working as a Full Stack Engineer at one of India's leading intelligent screening services company InstaVeritas , Looking forward to taking on new challenges in the field of machine lerning &amp; computer vision in order to form a strong conceptual background to become a high end professional , be adaptable to everchanging professional and technical dynamics &amp; bring something new to the table.<br><br>Meet ZAKI - product developer , &nbsp;research enthusiast &amp; aspiring entreprenuer<br>Love to innovate . Play with engines and APIs. Develop life utility web apps.&nbsp;Design user engaging layouts. Optimise websites and webapps. Create strong backend. <br>Solve problems. Devise solutions. &nbsp;Analyse and debug code.</p>",
+          "text": "<p>&nbsp;I am&nbsp;a computer science undergrad currently working as a Full Stack Engineer at one of India's leading intelligent screening services company InstaVeritas , Looking forward to taking on new challenges in the field of machine learning &amp; computer vision in order to form a strong conceptual background to become a high end professional , be adaptable to everchanging professional and technical dynamics &amp; bring something new to the table.<br><br>Meet ZAKI - product developer , &nbsp;research enthusiast &amp; aspiring entreprenuer<br>Love to innovate . Play with engines and APIs. Develop life utility web apps.&nbsp;Design user engaging layouts. Optimise websites and webapps. Create strong backend. <br>Solve problems. Devise solutions. &nbsp;Analyse and debug code.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -239,23 +146,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-7",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#28324e",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
           },
           "title": "WHAT I DO",
           "text": "<p>Article header with background image and parallax effect.</p>",
@@ -277,27 +184,27 @@
           "_name": "features4",
           "_anchor": "features4-3",
           "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -408,13 +315,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi"
         },
@@ -434,13 +341,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "JOIN ME",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/zmf0507\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"index.html#social-buttons4-e\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/zaki-mustafa-530503104/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -455,13 +362,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
           "logo": {
             "image": {
@@ -485,6 +392,100 @@
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
           "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
           "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "23px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#eb6b56!important"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1y",
+          "_params": {
+            "bgColor": "#2969b0",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logomakr-9qphob-283x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "drag-n-drop",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "50",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>"
         }
       ]
     },
@@ -554,21 +555,21 @@
           "_name": "menu",
           "_anchor": "menu-j",
           "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#2969b0",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logomakr_9qphob-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logomakr-9qphob-283x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -583,7 +584,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">ZONE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">TECHNOLOGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">ACADEMICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">BUSINESS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">TUTORIALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FOOTBALL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>"
         },
         {
           "_tags": [
@@ -595,13 +596,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi"
         },
@@ -620,26 +621,26 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-w",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1335.jpg",
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "PROJECTS",
-          "text": "Not much in number but much more in weight",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -654,34 +655,34 @@
               "font-size": "18px"
             }
           },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "VeriFieldX",
-          "text": "A field management web app for boosting firm's field level productivity @ InstaVeritas",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"projects.html#msg-box2-1m\" data-toolbar=\"-mbrBtnMove\">ONGOING PROJECT</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-23"
+          "_anchor": "msg-box2-23",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"projects.html#msg-box2-1m\" data-toolbar=\"-mbrBtnMove\">ONGOING PROJECT</a>",
+          "title": "VeriFieldX",
+          "text": "A field management web app for boosting firm's field level productivity @ InstaVeritas"
         },
         {
           "_styles": {
@@ -694,34 +695,34 @@
               "color": "#a0a0a0"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1o",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#475577",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
           },
-          "title": "PREVIOUS PROJECTS",
-          "text": "Cut down the development time with drag-and-drop website builder.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">READ TO LEARN&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-1o"
+          "title": "PREVIOUS PROJECTS",
+          "text": "Cut down the development time with drag-and-drop website builder."
         },
         {
           "_styles": {
@@ -735,34 +736,34 @@
               "font-size": "18px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1p",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
           },
-          "title": "UNSUPERVISED OBJECT DETECTION",
-          "text": "A research project aimed at unsupervised coarse object detetcion using domain adaptation technique",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"projects.html#msg-box2-1m\" data-toolbar=\"-mbrBtnMove\">Research Project</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-1p"
+          "title": "UNSUPERVISED OBJECT DETECTION",
+          "text": "A research project aimed at unsupervised coarse object detetcion using domain adaptation technique"
         },
         {
           "_styles": {
@@ -776,34 +777,34 @@
               "font-size": "18px"
             }
           },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#28324e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "IMAGE ENCRYPTION USING SB0X &amp; GALOIS FIELD",
-          "text": "A research oriented project where we work on breaking the existing encryption algorithm by proposing our new algorithm.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"projects.html#msg-box2-1m\" data-toolbar=\"-mbrBtnMove\">PAPER TO BE PUBLISHED</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-1m"
+          "_anchor": "msg-box2-1m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"projects.html#msg-box2-1m\" data-toolbar=\"-mbrBtnMove\">PAPER TO BE PUBLISHED</a>",
+          "title": "IMAGE ENCRYPTION USING SB0X &amp; GALOIS FIELD",
+          "text": "A research &nbsp;project where we worked on breaking the existing encryption algorithm by proposing our new algorithm."
         },
         {
           "_tags": [
@@ -820,27 +821,27 @@
           },
           "_anchor": "features1-z",
           "_params": {
+            "columnsColor": "#41a85f",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
-            "columnsColor": "#41a85f",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -954,27 +955,27 @@
           },
           "_anchor": "features1-13",
           "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
-            "columnsColor": "#ffffff",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#41a85f",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -1073,13 +1074,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "JOIN ME",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/zmf0507\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"projects.html#social-buttons4-14\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/zaki-mustafa-530503104/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -1094,13 +1095,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
           "logo": {
             "image": {
@@ -1190,21 +1191,21 @@
           "_name": "menu",
           "_anchor": "menu-m",
           "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#2969b0",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logomakr_9qphob-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logomakr-9qphob-283x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1223,7 +1224,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">ZONE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">TECHNOLOGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">ACADEMICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">BUSINESS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">TUTORIALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FOOTBALL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>"
         },
         {
           "_tags": [
@@ -1235,13 +1236,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi"
         },
@@ -1260,23 +1261,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-q",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.8",
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "SKILLS&nbsp;",
           "text": "Have a look at my developement wepaons",
@@ -1295,24 +1296,24 @@
           },
           "_anchor": "msg-box1-1d",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#eb6b56",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
@@ -1320,28 +1321,42 @@
         },
         {
           "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#eb6b56",
+              "border-color": "#eb6b56"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-26",
           "_params": {
+            "iconsBgColor": "#eb6b56",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
-            "iconsBgColor": "#eb6b56",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -1356,6 +1371,10 @@
               "newWindow": false
             }
           },
+          "title1": "Python",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "you need speed, pyhton indeed",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1369,6 +1388,10 @@
               "newWindow": false
             }
           },
+          "title2": "Angular 7",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "framework that saves my time, create front-end apps in Angular 5,6, 7&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1382,6 +1405,10 @@
               "newWindow": false
             }
           },
+          "title3": "Laravel",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "most beautiful framework for artisans,",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1395,6 +1422,10 @@
               "newWindow": false
             }
           },
+          "title4": "Lumen",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "lightweight microservices based framework, creates API &amp; REST end points",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -1406,6 +1437,10 @@
               "family": "et-line"
             }
           },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
               "active": true,
@@ -1417,6 +1452,13 @@
               "family": "et-line"
             }
           },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "features4",
           "_tags": [
             "Theme"
           ],
@@ -1429,57 +1471,30 @@
               "border-color": "#eb6b56"
             }
           },
-          "title1": "Python",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "you need speed, pyhton indeed",
-          "title2": "Angular 7",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "framework that saves my time, create front-end apps in Angular 5,6, 7&nbsp;",
-          "title3": "Laravel",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "most beautiful framework for artisans,",
-          "title4": "Lumen",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "lightweight microservices based framework, creates API &amp; REST end points",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
-          "_anchor": "features7-26"
-        },
-        {
-          "_inherit": "features4",
+          "_anchor": "features7-25",
           "_params": {
+            "iconsBgColor": "#eb6b56",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
-            "iconsBgColor": "#eb6b56",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -1494,6 +1509,10 @@
               "newWindow": false
             }
           },
+          "title1": "PHP",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Code strong backend in PHP along with PDO as the RDBMS.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1507,6 +1526,10 @@
               "newWindow": false
             }
           },
+          "title2": "JAVA",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "&nbsp;Implemented some cool OOPS concepts",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1520,6 +1543,10 @@
               "newWindow": false
             }
           },
+          "title3": "JAVASCRIPT",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Use JS and its framework jQuery to manipulate DOM and play with browser.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -1533,6 +1560,10 @@
               "newWindow": false
             }
           },
+          "title4": "SQL",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Create high level database interacting applications using SQL.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -1544,6 +1575,10 @@
               "family": "et-line"
             }
           },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
               "active": true,
@@ -1555,44 +1590,10 @@
               "family": "et-line"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#eb6b56",
-              "border-color": "#eb6b56"
-            }
-          },
-          "title1": "PHP",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Code strong backend in PHP along with PDO as the RDBMS.",
-          "title2": "JAVA",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "&nbsp;looking for opportunities",
-          "title3": "JAVASCRIPT",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Use JS and its framework jQuery to manipulate DOM and play with browser.",
-          "title4": "SQL",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Create high level database interacting applications using SQL.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_name": "features7",
-          "_anchor": "features7-25"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "features4",
@@ -1611,27 +1612,27 @@
           "_name": "features7",
           "_anchor": "features7-u",
           "_params": {
+            "iconsBgColor": "#eb6b56",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
-            "iconsBgColor": "#eb6b56",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -1648,7 +1649,7 @@
           },
           "title1": "C / C++",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "You better know !",
+          "caption1": "Algorithms &amp; Data structures for a better world",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1682,7 +1683,7 @@
           },
           "title3": "AWS",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Work on amazon web services - EC2 and elastic bean stalk . .",
+          "caption3": "Work on amazon web services - EC2 and elastic bean stalk&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1745,24 +1746,24 @@
           },
           "_anchor": "msg-box1-1f",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#eb6b56",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
@@ -1784,24 +1785,24 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-v",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#41a85f",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.linkedin.com/in/zaki-mustafa-530503104/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT ZMF LINKEDIN PROFILE</a>",
           "title": "Check out all skills",
@@ -1823,13 +1824,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "JOIN ME",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/zmf0507\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"skills.html#social-buttons4-15\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/zaki-mustafa-530503104/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -1844,13 +1845,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
           "logo": {
             "image": {
@@ -1943,21 +1944,21 @@
           "_name": "menu",
           "_anchor": "menu-16",
           "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#2969b0",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logomakr_9qphob-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logomakr-9qphob-283x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1976,7 +1977,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">ZONE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">TECHNOLOGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">ACADEMICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">BUSINESS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">TUTORIALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FOOTBALL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>"
         },
         {
           "_tags": [
@@ -1988,13 +1989,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi"
         },
@@ -2013,23 +2014,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1a",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1429x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "ASK ZAKI",
           "text": "Ask any question, share your ideas or tell me about your plans, i am ready to help you",
@@ -2047,19 +2048,19 @@
           },
           "_anchor": "form1-19",
           "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
+            "bgColorRadio": true,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubTitle": true
           },
           "title": "Go MAN!",
           "subtitle": "Share your project ideas, &nbsp;tech plans or research problems, I can help you out with the innovative solutions, product development and life saving growth hacks",
@@ -2110,24 +2111,24 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-1b",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
             "bgColor": "#41a85f",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">+91-9891094296</a>",
           "title": "IS IT URGENT?&nbsp;",
@@ -2149,13 +2150,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "JOIN ME",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/zmf0507\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"askzmf.html#social-buttons4-1c\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/zaki-mustafa-530503104/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -2170,13 +2171,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
           "logo": {
             "image": {
@@ -2267,22 +2268,23 @@
             "Theme"
           ],
           "_name": "menu",
+          "_anchor": "menu-1j",
           "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#2969b0",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logomakr_9qphob-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logomakr-9qphob-283x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2301,45 +2303,45 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">ZONE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">TECHNOLOGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">ACADEMICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">BUSINESS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">TUTORIALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FOOTBALL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>",
-          "_anchor": "menu-1j"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_anchor": "footer1-1k",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi",
-          "_anchor": "footer1-1k"
+          "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
+          "_anchor": "contacts1-1l",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
           "logo": {
             "image": {
@@ -2362,15 +2364,14 @@
           },
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
           "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>",
-          "_anchor": "contacts1-1l"
+          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
         }
       ]
     },
-    "page6.html": {
+    "events.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "EVENTS | ZMF",
+        "meta_descr": "",
+        "title": "ACTIVITIES | ZMF",
         "order": 1
       },
       "components": [
@@ -2431,22 +2432,23 @@
             "Theme"
           ],
           "_name": "menu",
+          "_anchor": "menu-1y",
           "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#2969b0",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logomakr_9qphob-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logomakr-9qphob-283x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2465,49 +2467,59 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">ZONE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">TECHNOLOGY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">ACADEMICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">BUSINESS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">TUTORIALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FOOTBALL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>",
-          "_anchor": "menu-1y"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\" target=\"_blank\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(255, 255, 255);\"></span>CV</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_anchor": "footer1-1z",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi",
-          "_anchor": "footer1-1z"
+          "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H3": {
+              "color": "#2969b0",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header2-22",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "showArrow": false,
             "imageSize": 50,
-            "bgImageRadio": false,
-            "bgImage": "../../../web/app/themes/mobirise3/components/_images/landscape.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "bgColor": "#f7da64",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.3,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -2535,40 +2547,34 @@
           },
           "title": "EVENTS &amp; ACTIVITIES&nbsp;<br>FOR A CHANGE",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page6.html#msg-box5-28\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page6.html#msg-box5-28\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_styles": {
-            "H3": {
-              "color": "#2969b0",
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "header2-22"
-        },
-        {
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-28",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2592,35 +2598,84 @@
             }
           },
           "title": "IEEE Webathon",
-          "text": "Organized &amp; Judged first ever full stack hacckathon ' Mini Webathon' in March, 2018 at Fcaulty of Engineering &amp; Technology, JMI",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "Organized &amp; Judged first ever full stack hackathon ' Mini Webathon' in March, 2018 at Fcaulty of Engineering &amp; Technology, JMI",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-28"
-        },
-        {
+          "_anchor": "msg-box5-2g",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/GTF62g8W6NQ",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Football is Love!",
+          "text": "Participated in more than 8 football and futsal tournaments &amp; showed some cool skills!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-29",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2644,35 +2699,35 @@
             }
           },
           "title": "Hashes Full Stack workshop",
-          "text": "Spoken at Jamia Millia Islamia's official programming Club 'Hashes' workshop for Full Stack development in FEB, 2018",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "Spoken at Jamia Millia Islamia's official programming Club 'Hashes' workshop for Full Stack development in Feb, 2018",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-29"
-        },
-        {
+          "_anchor": "msg-box5-2b",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
             "imageSize": "50",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -2696,30 +2751,238 @@
             }
           },
           "title": "Quizine - A quiz&nbsp;",
-          "text": "One of the biggest quiz event organised by me &amp; my team in Fcaulty of Engineering &amp; Technology, JMI which registered the presence of more than 80 students &amp; 18 teams.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>",
+          "text": "One of the biggest quiz event organised by team SCONJ - &nbsp;me &amp; my team in Fcaulty of Engineering &amp; Technology, JMI which registered the presence of more than 80 students &amp; 18 teams.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/sconjify/posts/1478824539113930\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEE MORE</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2b"
+          "_anchor": "msg-box5-2c",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/zaki-5-1400x788.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "World Genre &nbsp;Performance&nbsp;",
+          "text": "Performed a song &nbsp;highlighting the life of People from war torn countries &nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2d",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/zaki-4-1400x788.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Performance 2.0",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2e",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/z-036-1400x817.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Dramatics",
+          "text": "Good days when I acted like a king!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2f",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/z-034-1400x938.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Yo! I am the anchor",
+          "text": "University's Foundation day and me!&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
+          "_anchor": "contacts1-20",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
           "logo": {
             "image": {
@@ -2742,8 +3005,7 @@
           },
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
           "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>",
-          "_anchor": "contacts1-20"
+          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
         }
       ]
     }
