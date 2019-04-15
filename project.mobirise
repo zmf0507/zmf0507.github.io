@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "zmf_new",
-    "currentPage": "askzmf.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -131,7 +131,7 @@
             }
           },
           "title": "Meet ZAKI",
-          "text": "<p>&nbsp;I am&nbsp;a computer science undergrad currently working as a Full Stack Engineer at one of India's leading intelligent screening services company InstaVeritas , Looking forward to taking on new challenges in the field of machine learning &amp; computer vision in order to form a strong conceptual background to become a high end professional , be adaptable to everchanging professional and technical dynamics &amp; bring something new to the table.<br><br>Meet ZAKI - product developer , &nbsp;research enthusiast &amp; aspiring entreprenuer<br>Love to innovate . Play with engines and APIs. Develop life utility web apps.&nbsp;Design user engaging layouts. Optimise websites and webapps. Create strong backend. <br>Solve problems. Devise solutions. &nbsp;Analyse and debug code.</p>",
+          "text": "<p>&nbsp;I am&nbsp;a computer science undergrad currently working as a Full Stack Engineer at one of India's leading intelligent screening services company InstaVeritas , Looking forward to taking on new challenges in machine learning in order to form a strong conceptual background to become a high end professional , be adaptable to everchanging professional and technical dynamics &amp; bring something new to the table.<br><br>Meet ZAKI - product developer , &nbsp;research enthusiast &amp; aspiring entreprenuer<br>Love to innovate . Play with engines and APIs. Develop life utility web apps.&nbsp;Design user engaging layouts. Optimise websites and webapps. Create strong backend. <br>Solve problems. Devise solutions. &nbsp;Analyse and debug code.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -2500,6 +2500,14 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H2": {
+              "font-size": "48px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "0",
@@ -2596,15 +2604,7 @@
             "showBullets": true
           },
           "_anchor": "slider-36",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "H2": {
-              "font-size": "48px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_inherit": "msg-box8",
