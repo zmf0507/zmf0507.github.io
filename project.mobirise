@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 117,
+    "uniqCompNum": 119,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -70,7 +70,7 @@
             "showButtons": true
           },
           "title": "ZAKI MUSTAFA",
-          "text": "Full stack Developer . Research Enthusiast. Aspiring entrepreneur.",
+          "text": "Product Developer . Research Enthusiast. Aspiring Entrepreneur.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header2-2\" data-toolbar=\"-mbrBtnMove\">Know more about zmf</a> "
         },
         {
@@ -130,8 +130,8 @@
               "size": 250
             }
           },
-          "title": "Meet ZAKI",
-          "text": "<p>&nbsp;I am&nbsp;a computer science undergrad currently working as a Full Stack Engineer at one of India's leading intelligent screening services company InstaVeritas , Looking forward to taking on new challenges in machine learning in order to form a strong conceptual background to become a high end professional , be adaptable to everchanging professional and technical dynamics &amp; bring something new to the table.<br><br>Meet ZAKI - product developer , &nbsp;research enthusiast &amp; aspiring entreprenuer<br>Love to innovate . Play with engines and APIs. Develop life utility web apps.&nbsp;Design user engaging layouts. Optimise websites and webapps. Create strong backend. <br>Solve problems. Devise solutions. &nbsp;Analyse and debug code.</p>",
+          "title": "Meet ZMF",
+          "text": "<p>A data engineering PostGrad at IIITD, Zaki is currently focussing on the practical aspects of machine learning and natural language processing. In early 2019, he received master admission offers from Trinity College Dublin-Ireland, &nbsp;University of Auckland-NewZealand, University of Sapienza-Rome and University of Bonn-Germany. A bronze medalist in bachelors, In 2018, he went on to work as a Full Stack Engineer at InstaVeritas for an year where he got an opportunity to work on technologies like &nbsp;Angular 7 , Laravel, Lumen, VanillaJs etc, along with &nbsp;delployment servers and managers . Zaki developed Industry level &nbsp;product development skills , learned product workflows from CTO &amp; team and interacted with the product teams of &nbsp;Ola, Welspun, Uber, Swiggy etc to develop product functionalities and APIs. During his tenure as an engineer, he also worked independently on developing an enterprise's field level &nbsp;productivity CRM ' VeirifieldX' .</p><p>In 2015 , Zaki founded and developed &nbsp;'SCONJ', an ed-tech startup that took him to TOP 50 ideas in GreyMeter Ideathon as well. SCONJ got its first 500+ users in a few months and later started looking for scaling up and expansion. SCONJ was &nbsp;coded from scratch and turned out to be his &nbsp;biggest learning experience so far . SCONJ shut down its operations in late 2017 due to lack of time &amp; funds . In the same year , Zaki &nbsp;also Joined StudyMarvel , an AR startup, &nbsp;as a Backend Development Intern to help them develop a QnA platform.&nbsp;</p><p>Meet ZMF - product developer , &nbsp;research enthusiast &amp; aspiring entreprenuer<br>Love to innovate . Play with engines and APIs. Solve core problems. Develop life utility apps.&nbsp;Design user engaging layouts. Optimise Products. Create strong backend. &nbsp;Analyse and debug code.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -323,7 +323,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2019 Zaki Mustafa. Farooqi"
+          "text": "Copyright (c) 2019 Zaki Mustafa"
         },
         {
           "_inherit": "social-buttons2",
@@ -390,8 +390,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+          "text2": "<p></p><p><strong>Contacts</strong><br>\nEmail: </p><br><p>official : zaki19048@iiitd.ac.in</p>personal :&nbsp;zmf0507@gmail.com<br><p><br></p><br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br></p><p></p>",
+          "text3": "<p><strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a href=\"index.html\">HOME</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a></p>"
         },
         {
           "_styles": {
@@ -488,7 +488,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">WEAPONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZMF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         }
       ]
     },
@@ -587,7 +587,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">WEAPONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZMF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         },
         {
           "_tags": [
@@ -607,7 +607,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi"
+          "text": "Copyright (c) 2019 Zaki Mustafa"
         },
         {
           "_styles": {
@@ -642,7 +642,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "PROJECTS",
+          "title": "Work != Balance",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -684,8 +684,50 @@
             "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"projects.html#msg-box2-1m\" data-toolbar=\"-mbrBtnMove\">ONGOING PROJECT</a>",
-          "title": "VeriFieldX",
-          "text": "A field management web app for boosting firm's field level productivity @ InstaVeritas"
+          "title": "Identifying similar questions",
+          "text": "Natural Language Processing oriented Project aimed at detremining whether given pair of questions are semantically similar in nature or not;Python3 | NLTK&nbsp;"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "46px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"projects.html#msg-box2-1m\" data-toolbar=\"-mbrBtnMove\">ONGOING PROJECT</a>",
+          "title": "Artlet - Content creators community",
+          "text": "An Android project aimed at developing a social networking commuity for content creators;JAVA | Android"
         },
         {
           "_styles": {
@@ -743,47 +785,6 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-1p",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"projects.html#msg-box2-1m\" data-toolbar=\"-mbrBtnMove\">Research Project</a>",
-          "title": "UNSUPERVISED OBJECT DETECTION",
-          "text": "A research project aimed at unsupervised coarse object detetcion using domain adaptation technique"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            },
-            ".btn": {
-              "font-size": "18px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
           "_anchor": "msg-box2-1m",
           "_params": {
             "paddingTop": 3,
@@ -805,9 +806,164 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"projects.html#msg-box2-1m\" data-toolbar=\"-mbrBtnMove\">PAPER TO BE PUBLISHED</a>",
-          "title": "IMAGE ENCRYPTION USING SB0X &amp; GALOIS FIELD",
-          "text": "A research &nbsp;project where we worked on breaking the existing encryption algorithm by proposing our new algorithm."
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"projects.html#msg-box2-1m\" data-toolbar=\"-mbrBtnMove\">Completed</a>",
+          "title": "Dexter - data scraping",
+          "text": "Scraped and parsed thousand of data points from multiple websources for Instaveritas's Dexter using DomParsing technique and Laravel"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#ffffff",
+              "font-size": "18px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#000000",
+              "font-size": "18px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle SPAN": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "features1-3a",
+          "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-679-600x236.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "",
+          "subtitle1": "<b>VerifieldX</b>",
+          "caption1": "A field management web app for boosting firm's field level productivity @ InstaVeritas, built with Angular 7 and Laravel.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://add-app.instaveritas.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit VerifieldX</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-680-600x223.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "InstaCRM",
+          "subtitle2": "",
+          "caption2": " Worked on developing multiple functionalities of Instaveritas CRM using Angular and Laravel",
+          "button2": "<a data-app-btn=\"true\" href=\"https://zmf.000webhostapp.com/cpiter/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/object-detection-600x351.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "UNSUPERVISED OBJECT DETECTION",
+          "subtitle3": "<span style=\"font-style: normal;\">&nbsp;A research project aimed at unsupervised coarse object detection using domain adaptation technique</span>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"projects.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">View</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/data-encryption-cloud-600x420.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "",
+          "subtitle4": "<b>IMAGE ENCRYPTION USING SB0X &amp; GALOIS FIELD</b>",
+          "caption4": "breaking the existing encryption algorithm by proposing our new algorithm usig arnold transform",
+          "button4": " <a data-app-btn=\"true\" href=\"projects.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">View</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -860,7 +1016,7 @@
           },
           "title1": "SCONJ",
           "subtitle1": "Students social network",
-          "caption1": "Started out on 8th August, 2015 , SCONJ is the biggest project i have ever worked on. Created with PHP, PDO, SQL, JS and front-end technologies, SCONJ is an active network having 540+ members and still going.",
+          "caption1": "Started out on 8th August, 2015 , SCONJ turned out to be the &nbsp;biggest project I have ever worked on. Created with PHP, PDO, SQL, JS and front-end technologies, SCONJ was an active network having 540+ members until 2017.",
           "button1": "<a data-app-btn=\"true\" href=\"https://sconj.org\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit SCONJ</a>",
           "media2": {
             "image": {
@@ -903,8 +1059,8 @@
             }
           },
           "title4": "ADJAM",
-          "subtitle4": "adsense for jamia",
-          "caption4": "Created an advertising platform for local businesses in our locality. ADJAM is built on semantic-UI, SQL, PHP and PDO",
+          "subtitle4": "adsense for jamia Nagar",
+          "caption4": "Created an advertising platform for local businesses in our locality along with PayU inregration for online transactions. ADJAM is built on semantic-UI, SQL, PHP and PDO",
           "button4": "<a data-app-btn=\"true\" href=\"https://github.com/zmf0507/ad_jam\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View on github</a>",
           "media5": {
             "image": {
@@ -1007,7 +1163,7 @@
           "title2": "CPITER",
           "subtitle2": "CPI-% converter",
           "caption2": " A simple SPI to % converter for all students built with PHP, semantic-UI and css3.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://zmf.000webhostapp.com/cpiter/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT CPITER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://zmf.000webhostapp.com/cpiter/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit CPITER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/screenshot-364-600x294.png",
@@ -1022,7 +1178,7 @@
           },
           "title3": "Respozed",
           "subtitle3": "A collection of beautiful responsive templates",
-          "caption3": "Respozed is a collection of 4 beautiful responsive &nbsp;templates coded in HTML5, CSS3, JS and jQuery purely from scratch.These can be used by anyone as these are open source.",
+          "caption3": "Respozed is a collection of 4 beautiful responsive &nbsp;templates coded in HTML5, CSS3, JS and jQuery purely from scratch.It can be used by anyone as these are open source.",
           "button3": "<a data-app-btn=\"true\" href=\"https://github.com/zmf0507/landing-page\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View on GITHUB</a>",
           "media4": {
             "image": {
@@ -1034,7 +1190,7 @@
           },
           "title4": "Wanna see more?",
           "subtitle4": ".................................",
-          "caption4": "Check out all my major and mini projects on github.",
+          "caption4": "Check out all my major and mini projects as well as other cool stuff on Github.",
           "button4": " <a data-app-btn=\"true\" href=\"https://github.com/zmf0507/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View on GITHUB</a>",
           "media5": {
             "image": {
@@ -1123,8 +1279,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+          "text2": "<p></p><p><strong>Contacts</strong><br>\nEmail: </p><br><p>official : zaki19048@iiitd.ac.in</p>personal :&nbsp;zmf0507@gmail.com<br><p><br></p><br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br></p><p></p>",
+          "text3": "<p><strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a href=\"index.html\">HOME</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a></p>"
         }
       ]
     },
@@ -1227,7 +1383,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">WEAPONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZMF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         },
         {
           "_tags": [
@@ -1247,7 +1403,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi"
+          "text": "Copyright (c) 2019 Zaki Mustafa"
         },
         {
           "_styles": {
@@ -1282,8 +1438,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "SKILLS&nbsp;",
-          "text": "Have a look at my developement wepaons",
+          "title": "WEAPONS",
+          "text": "Have a look at my coding &amp; developement wepaons",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1529,9 +1685,9 @@
               "newWindow": false
             }
           },
-          "title2": "JAVA",
+          "title2": "JAVA &amp; ANDROID",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "&nbsp;Implemented some cool OOPS concepts",
+          "caption2": "&nbsp;My love for Android :)",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1546,7 +1702,7 @@
               "newWindow": false
             }
           },
-          "title3": "JAVASCRIPT",
+          "title3": "VanillaJS",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Use JS and its framework jQuery to manipulate DOM and play with browser.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1667,7 +1823,7 @@
               "newWindow": false
             }
           },
-          "title2": "HTML / CSS",
+          "title2": "HTML &amp; CSS",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Design user engaging layouts using HTML/CSS from scratch and use time saving frameworks like semantic-ui",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1684,9 +1840,9 @@
               "newWindow": false
             }
           },
-          "title3": "AWS",
+          "title3": "AWS &amp; FORGE",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Work on amazon web services - EC2 and elastic bean stalk&nbsp;",
+          "caption3": "Work on amazon web services - EC2 and elastic bean stalk , AWS RDS using FORGE",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1701,7 +1857,7 @@
               "newWindow": false
             }
           },
-          "title4": "SEO / PSO",
+          "title4": "SEO &amp; PSO",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Optimise the presence of any webpage on search engine and &nbsp;Guaranteed speed optimisation of any webpage (static) with a speed upto 99%..",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1876,8 +2032,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+          "text2": "<p></p><p><strong>Contacts</strong><br>\nEmail: </p><br><p>official : zaki19048@iiitd.ac.in</p>personal :&nbsp;zmf0507@gmail.com<br><p><br></p><br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br></p><p></p>",
+          "text3": "<p><strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a href=\"index.html\">HOME</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a></p>"
         }
       ]
     },
@@ -1980,7 +2136,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">WEAPONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZMF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         },
         {
           "_tags": [
@@ -2000,7 +2156,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi"
+          "text": "Copyright (c) 2019 Zaki Mustafa"
         },
         {
           "_styles": {
@@ -2035,7 +2191,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "ASK ZAKI",
+          "title": "Ask ZMF",
           "text": "Ask any question, share your ideas or tell me about your plans, I am ready to help you",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -2066,7 +2222,7 @@
             "showSubTitle": true
           },
           "title": "Go MAN!",
-          "subtitle": "Share your project ideas, &nbsp;tech plans or research problems, I can help you out with the innovative solutions, product development and life saving growth hacks",
+          "subtitle": "Share your project ideas, &nbsp;tech plans or problems, I can help you out with some cool &amp; innovative solutions, product development and life saving growth hacks",
           "form": {
             "action": "zmf0507@gmail.com",
             "alerts": {
@@ -2133,9 +2289,9 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">+91-9891094296</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">+91-9891******</a>",
           "title": "IS IT URGENT?&nbsp;",
-          "text": "You can call us on the number or leave a message on whatsapp"
+          "text": "decrypt it and I will be there to pick your call; just 10^6 combinations :)"
         },
         {
           "_inherit": "social-buttons2",
@@ -2202,172 +2358,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
-        }
-      ]
-    },
-    "page5.html": {
-      "settings": {
-        "meta_descr": "Web Page Generator Description",
-        "title": "F? | ZMF",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "23px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1f5087"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2662a4!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2969b0"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#eb6b56!important"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1j",
-          "_params": {
-            "bgColor": "#2969b0",
-            "fontSize": "1",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logomakr-9qphob-283x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "drag-n-drop",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": "50",
-              "active": true,
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1k",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Zaki Mustafa. Farooqi"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-1l",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-358-128x118.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "drag-n-drop",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+          "text2": "<p></p><p><strong>Contacts</strong><br>\nEmail: </p><br><p>official : zaki19048@iiitd.ac.in</p>personal :&nbsp;zmf0507@gmail.com<br><p><br></p><br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br></p><p></p>",
+          "text3": "<p><strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a href=\"index.html\">HOME</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a></p>"
         }
       ]
     },
@@ -2473,7 +2465,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">WEAPONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZMF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         },
         {
           "_tags": [
@@ -2493,7 +2485,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2019 Zaki Mustafa. Farooqi"
+          "text": "Copyright (c) 2019 Zaki Mustafa"
         },
         {
           "_tags": [
@@ -3149,8 +3141,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+          "text2": "<p></p><p><strong>Contacts</strong><br>\nEmail: </p><br><p>official : zaki19048@iiitd.ac.in</p>personal :&nbsp;zmf0507@gmail.com<br><p><br></p><br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br></p><p></p>",
+          "text3": "<p><strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a href=\"index.html\">HOME</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a></p>"
         }
       ]
     },
@@ -3178,7 +3170,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2019 Zaki Mustafa. Farooqi"
+          "text": "Copyright (c) 2019 Zaki Mustafa"
         },
         {
           "_styles": {
@@ -3275,7 +3267,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">WEAPONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZMF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         },
         {
           "_inherit": "header1",
@@ -3430,8 +3422,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+          "text2": "<p></p><p><strong>Contacts</strong><br>\nEmail: </p><br><p>official : zaki19048@iiitd.ac.in</p>personal :&nbsp;zmf0507@gmail.com<br><p><br></p><br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br></p><p></p>",
+          "text3": "<p><strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a href=\"index.html\">HOME</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a></p>"
         }
       ]
     },
@@ -3459,7 +3451,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2019 Zaki Mustafa. Farooqi"
+          "text": "Copyright (c) 2019 Zaki Mustafa"
         },
         {
           "_styles": {
@@ -3579,8 +3571,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+          "text2": "<p></p><p><strong>Contacts</strong><br>\nEmail: </p><br><p>official : zaki19048@iiitd.ac.in</p>personal :&nbsp;zmf0507@gmail.com<br><p><br></p><br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br></p><p></p>",
+          "text3": "<p><strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a href=\"index.html\">HOME</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a></p>"
         },
         {
           "_styles": {
@@ -3677,7 +3669,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">WEAPONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZMF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         }
       ]
     },
@@ -3705,7 +3697,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2019 Zaki Mustafa. Farooqi"
+          "text": "Copyright (c) 2019 Zaki Mustafa"
         },
         {
           "_styles": {
@@ -3825,8 +3817,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>JAMIA NAGAR,<br>NEW DELHI",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adszmf@gmail.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zmf0507@gmail.com<br>\nPhone: +91-9891094296",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">SKILLS</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a>"
+          "text2": "<p></p><p><strong>Contacts</strong><br>\nEmail: </p><br><p>official : zaki19048@iiitd.ac.in</p>personal :&nbsp;zmf0507@gmail.com<br><p><br></p><br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br></p><p></p>",
+          "text3": "<p><strong>Links</strong><br><a href=\"index.html#msg-box8-7\">PROJECTS</a><a class=\"text-primary\" href=\"https://mobirise.com/\"><br></a><a href=\"index.html\">HOME</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">ABOUT&nbsp;</a></p>"
         },
         {
           "_styles": {
@@ -3923,7 +3915,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&lt;/ZMF&gt;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZAKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\">WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"skills.html\">WEAPONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\">Ask ZMF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"askzmf.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.linkedin.com/in/zmf0507/\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         }
       ]
     }
